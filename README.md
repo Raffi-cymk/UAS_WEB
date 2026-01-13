@@ -49,7 +49,7 @@ Tujuan dari pembuatan aplikasi ini adalah:
 * Visual Studio Code (Code Editor)
 
 
-###🗄️ Database
+### 🗄️ Database
 
 Nama database yang digunakan adalah db_uas.
 
